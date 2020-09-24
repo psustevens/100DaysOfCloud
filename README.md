@@ -10,20 +10,12 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Dave's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+My name is David Stevens.  I work for [HyTrust](https://www.hytrust.com) as a Chief Solutions Evangelist and Architect.  I started my career as a young sysadmin and worked my way up to where I am today.  I love virtualization and cloud technologies, but my cloud knowledge needs to be honed a bit more.  I'm hoping this project will be the kicker to help me attain the AWS Solutions Architect - Associate certification quicker.
 
-[✍️ Introduce yourself]
-
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@PSUStevens](https://twitter.com/PSUStevens)
+- [LinkedIn Profile](https://www.linkedin.com/in/davidlstevens)
 
 ## Stepping out the door
 
