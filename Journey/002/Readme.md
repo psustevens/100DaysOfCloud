@@ -1,52 +1,51 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Github Customization #1
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+I stumbled upon a web page that tells you how to customize your Github repo when sharing it over social media.  So, I decided to give that a whirl.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+You're probably wondering what this has to do with the cloud.  Frankly, it has nothing to do with the cloud.  But, I figured while I'm learning more about Github why not learn how to customize it.  This way when I share my updates on [Twitter](https://twitter.com/psustevens) it has a nice image assigned to it.
 
-## Cloud Research
+## Prerequisite
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Obviously, you need to have the following:
 
-## Try yourself
+1. A Github account
+2. At least one repository you want to customize
+3. For this exercise you will need a .jpg or .png file at least 640x320px or (1280x640px preferably).  It's best to keep the file size under 1 MB.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+## How to Steps
 
-### Step 1 — Summary of Step
+I will document the steps below to do this using my personal account.  But, if you want to follow the official Github instructions you can find them over [here:](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/customizing-your-repositorys-social-media-preview)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 1
 
-### Step 1 — Summary of Step
+Login to your Github account and navigate to the repository you want to customize.
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot of my 100DaysOfCloud repo](Day2Journey-image1.png)
 
-### Step 3 — Summary of Step
+### Step 2
 
-![Screenshot](https://via.placeholder.com/500x300)
+Under the name of your repository you will see a **Settings** link.  Click it.
 
-## ☁️ Cloud Outcome
+![Screenshot highlighting the Settings link](Day2Journey-image2.png)
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+### Step 3
+
+Look for the *Social Preview* section.
+
+Click the **Edit** button.
+ - Click **Upload an Image...** to upload a new image or change the existing image. You will see I already uploaded the 100DaysOfCloud banner.
+ - Click **Remove image** to, obviously, remove the image.
+
+![Screenshot of Social Preview section](Day2Journey-image3.png)
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Next, I'll write about what I do to commit changes to my Github repository and push the changes to it.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter post showing the social image](https://twitter.com/PSUStevens/status/1310373427585470466?s=20)
