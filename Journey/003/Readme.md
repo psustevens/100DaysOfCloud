@@ -1,27 +1,22 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Committing and Pushing to Github
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+This post will cover how I use Github Desktop to commit changes to my Github repositository then push them up to Github.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+1. You need to have Github Desktop downloaded and installed
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Part of using the cloud is that you can use, what I am referring to as, "disposable" infrastructure.  What I mean is that you no longer have to rack/stack servers anymore to get started.  This is the cloud providers responsibility. However, you do need to install the applications and deploy the proper virtual machines for running said applications.  In order to do this in a consistent and repeatable way you will become familiar with a concept known as Infrastructure-as-Code (IAC).
 
-## Cloud Research
+The idea behind Infrastructure-as-Code is that, depending on the cloud provider, you will describe and deploy infrastructure such as compute, storage, and networking and the configuration of the infrastructure using a "language" of sorts.  Other tools such as Terraform, Puppet, Chef and others can also be used for describing and deploying cloud infrastructure.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+As your infrastructure evolves over time you will develop different versions of the virtual hardware and configuration.  So, what better place to store these versions is up in Github.
 
-## Try yourself
+## How to Steps
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 

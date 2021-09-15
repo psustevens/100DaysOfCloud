@@ -22,7 +22,7 @@ My name is David Stevens.  I work for [HyTrust](https://www.hytrust.com) as a Ch
 
 - [X] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [X] ☁️ 2 > [My Second Day](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [X] ☁️ 3 > [Pushing to Github](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
